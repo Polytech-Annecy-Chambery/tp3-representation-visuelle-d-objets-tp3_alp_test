@@ -14,6 +14,10 @@ from House import House
 from Opening import Opening
 import copy
 
+import pygame
+import OpenGL.GL as gl
+import OpenGL.GLU as glu
+
 
 def Q1a():
     pass
